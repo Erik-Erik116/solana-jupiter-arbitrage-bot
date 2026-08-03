@@ -4,13 +4,6 @@ A high-performance, real-time arbitrage bot for Solana that identifies and execu
 
 <div align="center">
 
-
-### 💬 Get in Touch
-
-
-
-
-
 </div>
 
 ## Features
